@@ -1,4 +1,4 @@
-# Case-Study-Data-Science-
+# Case Study Data Science
 
 Welcome to Caes Study Series
 
