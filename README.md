@@ -6,7 +6,7 @@ This Repo. here consits of a extensive use of data science tools for gaining mos
 
 Here, is the list of the notebook:
 1) Cholera 
-
+2) SSR Tweets
 
 ## Upcming Many More
 ### will be adding a detailed readme soon :)
